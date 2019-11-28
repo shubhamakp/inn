@@ -1,4 +1,4 @@
-# Flow of the project is as :
+Flow of the project is as :
 # First of all the visitor will come to register his details.
 # After submit a email will be sent to the host (which in this project i have made a single host for all serving as first come first serve)
 # After registration all the details will be stored in the database and the flow of project will go to login page where the visitor have to submit name and corresponding email, that if provided correct will lead to visitors welcome page .
